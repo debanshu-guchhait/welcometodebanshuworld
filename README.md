@@ -24,7 +24,7 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 
 ## 🌐 Socials
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/debanshu-guchhait-b92b64355/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
