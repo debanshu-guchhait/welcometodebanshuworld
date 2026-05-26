@@ -31,11 +31,11 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 </a>
 
 <a href="mailto:aiml24005@cemk.ac.in">
-  <img src="https://img.shields.io/badge/College_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C_email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="mailto:aiml.engr.debanshu@gmail.com">
-  <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/P_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="mailto:debanshuguchhait31810@yahoo.com">
@@ -64,19 +64,6 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 
 ---
 
-### 📚 Core Interests
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-ff6f61?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Science-20B2AA?style=for-the-badge"/>
-
-</p>
-
----
 
 ### 🎨 Design Tools
 
