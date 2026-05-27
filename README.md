@@ -1,11 +1,12 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=48&duration=2500&pause=6000&color=4B0082&center=true&vCenter=true&width=1000&height=100&lines=Hello+👋+wellcome+to+codewithdebanshu" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=2500&pause=2000&color=00F7FF&center=true&vCenter=true&width=1400&height=120&lines=INITIALIZING+CODE+WITH+DEBANSHU...;LOADING+AI+MODULES...;SYSTEM+READY+✔" />
+
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=2000&pause=10000&color=800080&center=true&vCenter=true&width=900&lines=Welcome+to+the+world+of+inoveting+codes+in+my+github+profile" />
-</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=900&lines=Welcome+to+the+world+of+inoveting+codes+in+my+github+profile" /> </h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -304,4 +305,3 @@ UI/UX Design
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
